@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntentBundle</string>
+    <string name="etNome">Nome</string>
+    <string name="etCPF">CPF</string>
+    <string name="etIdade">Idade</string>
+    <string name="btnSalvar">Salvar</string>
+    <string name="btnVoltar">Voltar</string>
+</resources>
